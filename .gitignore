@@ -1,0 +1,4 @@
+localdisk/mlruns
+localhost/artifacts
+localhost/mlflow.db
+localhost/outputs
